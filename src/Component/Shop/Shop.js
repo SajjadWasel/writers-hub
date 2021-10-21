@@ -1,5 +1,4 @@
 import React from 'react';
-// import { useEffect, useState } from 'react/cjs/react.development';
 import './Shop.css'
 import Cart from '../Cart/Cart';
 import Writers from '../Writter/Writer';
