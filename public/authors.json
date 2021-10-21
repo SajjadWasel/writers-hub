@@ -1,0 +1,110 @@
+[
+    {
+      "name": "James Clear",
+      "proffession": "Journalist",
+      "age": 33,
+      "bestBook": "Atomic Habits",
+      "country": "United States",
+      "cost": 10000,
+      "image": "https://d29zunrt9sid73.cloudfront.net/speaker_media/asset/37828/large_70_james_clear_photo.jpg"
+    },
+    {
+      "name": "Hal Elrod",
+      "proffession": "Keynote Speaker",
+      "age": 42,
+      "bestBook": "The Miracle Morning",
+      "country": "United States",
+      "cost": 3400,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoox-5ITpSNsT2PxuhTjx9OcyfYXQFCuSFFA9Pw-ILRcre04wLvWbqbwtbiioOCadRkp0&usqp=CAU"
+    },
+    {
+      "name": "Tony Robins",
+      "proffession": "Author",
+      "age": 61,
+      "bestBook": "Awaken the Giant",
+      "country": "United States",
+      "cost": 7800,
+      "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60214c0c6aab9c8fe384b7e1%2FTony-Robbins%2F960x0.jpg%3Ffit%3Dscale"
+    },
+    {
+      "name": "Tim Ferriss",
+      "proffession": "Entrepreneur",
+      "age": 44,
+      "bestBook": "The 4 Hour Work Week",
+      "country": "United States",
+      "cost": 9900,
+      "image": "https://www.incimages.com/uploaded_files/image/336x336/Tim_Ferriss3Cropped_76070.jpg"
+    },
+    {
+      "name": "Brian Tracy",
+      "proffession": "Speaker",
+      "age": 77,
+      "bestBook": "Eat That Frog",
+      "country": "Canada",
+      "cost": 11000,
+      "image": "https://s3.amazonaws.com/media.briantracy.com/about/brian-about.jpg"
+    },
+    {
+      "name": "Phil Knight",
+      "proffession": "Businessman",
+      "age": 83,
+      "bestBook": "Shoe Dog",
+      "country": "United States",
+      "cost": 8800,
+      "image": "https://static01.nyt.com/images/2016/02/24/business/24stanford/24stanford-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+    },
+    {
+      "name": "Robert Kiyosaki",
+      "proffession": "Businessman",
+      "age": 74,
+      "bestBook": "Rich Dad Poor Dad",
+      "country": "United States",
+      "cost": 9990,
+      "image": "https://pbs.twimg.com/profile_images/472421066007015424/MHUJj15g_400x400.jpeg"
+    },
+    {
+      "name": "Rhonda Byrne",
+      "proffession": "Television Writer",
+      "age": 70,
+      "bestBook": "The Secret",
+      "country": "Australia",
+      "cost": 6780,
+      "image": "https://lewishowes.com/wp-content/uploads/2020/11/Rhonda-Byrne_author-photo2-scaled.jpg"
+    },
+    {
+      "name": "Donald Miller",
+      "proffession": "Author",
+      "age": 50,
+      "bestBook": "Story Brand",
+      "country": "United States",
+      "cost": 7843,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/amzn-author-media-prod/hdkb07l5u0lj0tg0fko8ss0g20._SX450_.jpg"
+    },
+    {
+      "name": "Jay Shetty",
+      "proffession": "Author",
+      "age": 34,
+      "bestBook": "Think Like a Monk",
+      "country": "United Kingdom",
+      "cost": 5687,
+      "image": "https://yt3.ggpht.com/ytc/AKedOLRZwqLm6votD9I4S0QD6ITfMcKAa_W9ROL9QQNW=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "name": "Rolf Dobelli",
+      "proffession": "Author",
+      "age": 55,
+      "bestBook": "The Art of Thinking Crearly",
+      "country": "Switzerland",
+      "cost": 4353,
+      "image": "https://serviceplan.blog/sp-content/uploads/2018/01/Dobelli.jpg"
+    },
+    {
+      "name": "Cal Newport",
+      "proffession": "Author",
+      "age": 49,
+      "bestBook": "Deep Work",
+      "country": "United States",
+      "cost": 2312,
+      "image": "https://www.madfientist.com/wp-content/uploads/2019/03/cal-newport-interview.png"
+    }
+  ]

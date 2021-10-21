@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.banner-body {
+    height: 190px;
+}
+
+/* ---------------------
+    responsive banner
+------------------------*/
+@media screen and (max-width: 885px){
+    .banner-body {
+        height: 320px;
+    }
+}
+
+/* ------------------------------
+banner styles
+-------------------------------- */
+.banner {
+    font-family: 'Poppins', sans-serif;
+    background-size: cover;
+    border-radius: 18px;
+    height: 400px;
+    width: 96%;
+    padding: 1%;
+    margin: 30px 2% 30px 2%;
+    display: block;
+    text-align: center;
+    background: rgba( 247, 166, 125, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.banner h1 {
+    font-size: 55px;
+    padding-top: 15px;
+}
+

@@ -1,0 +1,73 @@
+/* -----------------------------
+    cart container style
+-------------------------------*/
+.cart {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: -700px;
+}
+
+/* -------------------------
+    Cart elements styles 
+-------------------------*/
+.cart-body {
+    background: rgba( 255, 255, 255, 0.7 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 11px );
+    -webkit-backdrop-filter: blur( 11px );
+    border-radius: 30px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    height: auto;
+    width: 75%;
+}
+
+.cart-total {
+    border: 1px solid #bbb9b9;
+    border-radius: 20px;
+    display: inline-block;
+    width: 60%;
+    text-align: start;
+}
+
+.cart-total h5 {
+    padding: 4px;
+}
+
+.added-writter div{
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+    padding-bottom: 10px;
+    text-align: center;
+    padding-top: 9px;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    border-radius: 10px;
+    color: white;
+    background-image: linear-gradient(to left, coral, #e0ad9a);
+
+}
+
+.added-writter div p {
+    margin: 0;
+    padding: 0;
+}
+
+.added-writter div img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.buy-now-btn {
+    background: rgb(13, 127, 220);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 0px );
+    -webkit-backdrop-filter: blur( 0px );
+    padding-bottom: 7px;
+    border-radius: 5px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
