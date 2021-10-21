@@ -11,7 +11,7 @@ const Header = () => {
                         <a className="navbar-brand d-flex align-items-center" href="/home">
                             {/* Navber Logo */}
                             <img className="me-1 bg-light rounded-circle navber-logo border border-2" src="https://lh3.googleusercontent.com/-qyTTv9df2WA/YW6oqqvlDsI/AAAAAAAAANQ/daWb3rz-d0wmIl-x44eMiwcFtoVqLtVPwCLcBGAsYHQ/d36b8c7845a349b1bb5519646beab851%2B%25281%2529.png" alt="" width="50" height="50"/>
-                            <h4 className='mt-1'>Writters Hub</h4>
+                            <h4 className='mt-1'>Writers Hub</h4>
                         </a>
                         {/* Navber Collapse Button */}
                         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

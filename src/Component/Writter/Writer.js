@@ -32,7 +32,7 @@ const Writers = (props) => {
                             <p>Age: {age}</p>
                             <p>Country: {country}</p>
                             <p>Proffession: {proffession}</p>
-                            <p>Cost: {cost}</p>
+                            <p>Cost: ${cost}</p>
                             <button onClick={() => props.handleAddToCart(props.writers)} className="btn btn-primary">{cart_icon} Add To Cart</button>
                         </div>
                     </div>  

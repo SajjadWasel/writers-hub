@@ -1,7 +1,7 @@
 import React from 'react';
 import './Cart.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faShoppingCart, faMoneyBillAlt, faShoppingBag } from '@fortawesome/free-solid-svg-icons'
+import { faUser, faMoneyBillAlt, faShoppingBag } from '@fortawesome/free-solid-svg-icons'
 
 const Cart = (props) => {
 
@@ -26,7 +26,7 @@ const Cart = (props) => {
     /* -------------------------------------
         Font Awesome Icons
     --------------------------------------*/
-    const cart_icon = <FontAwesomeIcon icon={faShoppingCart} />;
+    const cart_icon = <FontAwesomeIcon icon={faUser} />;
     const money_icon = <FontAwesomeIcon icon={faMoneyBillAlt} />;
     const shopping_icon = <FontAwesomeIcon icon={faShoppingBag}/>
 
@@ -42,7 +42,7 @@ const Cart = (props) => {
                 <div className="cart-body">
                     <h2 className="m-2">Cart</h2>
                     <div className='cart-total p-2'>
-                        <h5>{cart_icon} Writter Writters Added: {allAddedWritters.length}</h5>
+                        <h5>{cart_icon} Writers Added: {allAddedWritters.length}</h5>
                         <hr />
                         <h5>{money_icon} Total Cost: {total}$</h5>
                     </div>
