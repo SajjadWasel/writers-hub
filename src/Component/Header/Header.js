@@ -8,7 +8,7 @@ const Header = () => {
             <div className="header">
                 <nav className="navbar navbar-expand-lg navbar-light fixed-top mt-3 mx-4">
                     <div className="container-fluid">
-                        <a className="navbar-brand d-flex align-items-center" href="/home">
+                        <a className="navbar-brand d-flex align-items-center" href="/">
                             {/* Navber Logo */}
                             <img className="me-1 bg-light rounded-circle navber-logo border border-2" src="https://lh3.googleusercontent.com/-qyTTv9df2WA/YW6oqqvlDsI/AAAAAAAAANQ/daWb3rz-d0wmIl-x44eMiwcFtoVqLtVPwCLcBGAsYHQ/d36b8c7845a349b1bb5519646beab851%2B%25281%2529.png" alt="" width="50" height="50"/>
                             <h4 className='mt-1'>Writers Hub</h4>
@@ -21,26 +21,26 @@ const Header = () => {
                         <div className="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul className="navbar-nav me-auto mb-2 mb-lg-0 fw-bolder fs-6">
                                 <li className="nav-item">
-                                    <a className="nav-link active" aria-current="page" href="/home">Home</a>
+                                    <a className="nav-link active" aria-current="page" href="/">Home</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link active" aria-current="page" href="/home">Product</a>
+                                    <a className="nav-link active" aria-current="page" href="/">Product</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link active" aria-current="page" href="/home">About</a>
+                                    <a className="nav-link active" aria-current="page" href="/">About</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link active" aria-current="page" href="/home">Cart</a>
+                                    <a className="nav-link active" aria-current="page" href="/">Cart</a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link active" aria-current="page" href="/home">Contact</a>
+                                    <a className="nav-link active" aria-current="page" href="/">Contact</a>
                                 </li>
                                
                             </ul>
                             {/* Cart Image */}
                             <div className='cart-image'>
                                 
-                                <img src="https://media.istockphoto.com/vectors/homeping-cart-icon-isolated-on-white-background-vector-id1206806317?k=20&m=1206806317&s=170667a&w=0&h=kEh5VLsTHukWc7xf2BvUs8ssqS_d7vkK0-xU3MDpO7s=" alt=""/>
+                                <img src="https://media.istockphoto.com/vectors/ping-cart-icon-isolated-on-white-background-vector-id1206806317?k=20&m=1206806317&s=170667a&w=0&h=kEh5VLsTHukWc7xf2BvUs8ssqS_d7vkK0-xU3MDpO7s=" alt=""/>
 
 
                             </div>

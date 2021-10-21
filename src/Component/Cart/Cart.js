@@ -61,7 +61,7 @@ const Cart = (props) => {
 
                     </div>
                     {/* ---Cart Button--- */}
-                    <a href="/home"><button className="btn btn-primary mb-4 buy-now-btn">{shopping_icon} Buy Now</button></a>
+                    <a href="/"><button className="btn btn-primary mb-4 buy-now-btn">{shopping_icon} Buy Now</button></a>
                 </div>
             </div>
         </div>
